@@ -1,0 +1,5 @@
+
+main atpl.
+
+// 如果删除这一行，可以正常终止进程:
+<% include('./sub.atpl') %>
